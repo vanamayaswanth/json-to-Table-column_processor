@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info
+dist/
+build/
+
+# Environment
+.env
+jtb
+
